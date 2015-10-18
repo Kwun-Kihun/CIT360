@@ -1,0 +1,20 @@
+Understanding Portfolio Documentation
+Understanding Portfolio — October 17, 2015
+
+Java Collections
+This is the topic I focus and spent time trying to learn. Java Collections are pretty useful for transferring data between classes and over sockets. I still need to figure how to organize my program so I researched some examples on the internet. One of the things that really started to make sense was this last week while I was working on a program for a calculator in Java Collection. I also need to figure how to make and design controller like TV remote. I t should be control all functions in the calculator, and I might need to research more about GUI interface for the calculator.
+The below links are examples of calculator.
+https://github.com/Kwun-Kihun/CIT360-Personal-Portfolio/blob/master/Sample%20calculator
+https://github.com/Kwun-Kihun/CIT360-Personal-Portfolio/blob/master/Basic%20Calculator
+
+Hibernate
+Hibernate ORM enables developers to more easily write applications whose data outlives the application process. As an Object/Relational Mapping (ORM) framework, Hibernate is concerned with data persistence as it applies to relational databases. Even though I researed about Hibernate, I barely use it so I try to find some examples from Bro. Barney’s one, and he had provided an example of how Hibernate works on his GitHub, so I was able to run his program to see how different aspects of Hibernate run. 
+The below links are examples of Hibernate that I used.
+https://github.com/Kwun-Kihun/CIT360-Personal-Portfolio/blob/master/Hibernate%20Example%201
+
+UML Class Diagram
+Before I use UML class Diagram I researched and reviewed about UML Diagram. I will use a Class Diagram as a part of the design of my calculation application for the future. The class diagram will help to identify the necessary classes and interfaces in my app. I need to work with it.
+The below links are examples of class diagram that I found.
+http://www.objectmentor.com/resources/articles/umlClassDiagrams.pdf
+https://barneyooii.files.wordpress.com/2015/03/import-generators-and-isomorphs.pdf
+https://barneyooii.files.wordpress.com/2015/03/field-generator-use-case.png
