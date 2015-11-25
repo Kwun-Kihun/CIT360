@@ -1,1 +1,2 @@
 
+In the collections1.java it will create a list and add each one of the objects in the list and printing them. The collections2.java it will create two different arrays of items, List1 and List2, in the string x it will add each one of the things in List1 and printing it. In the List2 it works same thing and in order to print it, it will need to change List1.size() to List2.size() and List1.get to List2.get
