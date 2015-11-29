@@ -8,3 +8,6 @@ MVC was one of the seminal insights in the early development of graphical user i
 -	Model: Usually a Java Object,  carries data and updates the controller
 -	View: Visual representation of the data
 -	Controller: works with both the model and the view to control the data flow and assignment 
+
+This is shaing video about MVC Pattern.
+http://youtu.be/6cJAXFpe9yM
