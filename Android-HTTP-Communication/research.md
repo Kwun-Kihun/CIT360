@@ -1,4 +1,4 @@
-HTTP Connection Notes
+HTTP Connection
 
 Most network-connected Android apps will use HTTP to send and receive data. Android includes two HTTP clients: HttpURLConnection and Apache HTTP Client. Both support HTTPS, streaming uploads and downloads, configurable timeouts, IPv6 and connection pooling.
 
