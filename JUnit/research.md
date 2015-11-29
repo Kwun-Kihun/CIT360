@@ -9,3 +9,6 @@ This approach is like "test a little, code a little, test a little, code a littl
 
 JUnit allows the developer to incrementally build test suites to measure progress and detect unintended side effects. Tests can be run continuously. Results are provided immediately. 
 JUnit shows test progress in a bar that is normally green but turns red when a test fails.
+
+This is the sharing video for Junit.
+http://youtu.be/2hzBAqDged4
