@@ -4,4 +4,4 @@ A socket is one end-point of a two-way communication link between two programs r
 
 Socket classes are used to represent the connection between a client program and a server program. The java.net package provides two classes--Socket and ServerSocket--that implement the client side of the connection and the server side of the connection, respectively.
 
-This is shaing video about Socket I/O.
+This is shaing video about Socket I/O. http://youtu.be/jFk2JJhgUR8
