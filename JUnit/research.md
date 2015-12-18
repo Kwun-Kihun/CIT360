@@ -10,5 +10,10 @@ This approach is like "test a little, code a little, test a little, code a littl
 JUnit allows the developer to incrementally build test suites to measure progress and detect unintended side effects. Tests can be run continuously. Results are provided immediately. 
 JUnit shows test progress in a bar that is normally green but turns red when a test fails.
 
+json_decode — Decodes a JSON string
+json_encode — Returns the JSON representation of a value
+json_last_error_msg — Returns the error string of the last json_encode() or json_decode() call
+json_last_error — Returns the last error occurred
+
 This is the sharing video for Junit.
 http://youtu.be/2hzBAqDged4
