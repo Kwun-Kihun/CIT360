@@ -34,3 +34,4 @@ There are two main uses for a Handler: (1) to schedule messages and runnables to
 When posting or sending to a Handler, you can either allow the item to be processed as soon as the message queue is ready to do so, or specify a delay before it gets processed or absolute time for it to be processed. The latter two allow you to implement timeouts, ticks, and other timing-based behavior.
 
 
+http://youtu.be/zDN1NDOrScc
