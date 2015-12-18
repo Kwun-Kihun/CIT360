@@ -6,5 +6,10 @@ These properties make JSON an ideal data-interchange language.
 
 In addition, JSON is a syntax for storing and exchanging data, and it is an easier-to-use alternative to XML.
 
+.json_decode — Decodes a JSON string
+.json_encode — Returns the JSON representation of a value
+.json_last_error_msg — Returns the error string of the last json_encode() or json_decode() call
+.json_last_error — Returns the last error occurred
+
 This is my sharing video for JSON
 http://youtu.be/IQ-VbbWQhyE
