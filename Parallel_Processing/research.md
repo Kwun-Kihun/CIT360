@@ -4,4 +4,4 @@ Parallel processing is a method of simultaneously breaking up and running progra
 
 Parallel processing is particularly useful when running programs that perform complex computations, and it provides a viable option to the quest for cheaper computing alternatives. Supercomputers commonly have hundreds of thousands of microprocessors for this purpose. Parallel processing should not be confused with concurrency, which refers to multiple tasks that run simultaneously.
 
-This is shaing video about Parallel Processing. 
+This is shaing video about Parallel Processing. http://youtu.be/OF2-Xoct_J0
